@@ -1,4 +1,5 @@
-# 🛍️ JD SHOP — E-Commerce Web Application
+# 🛍️ JH  
+SHOP — E-Commerce Web Application
 
 A **full-stack, production-ready** e-commerce platform built for the JD Shop brand. Includes product catalog, cart, checkout, user auth (Admin/User roles), order tracking, and a backend API connected to your choice of database.
 
